@@ -2,5 +2,9 @@ body
 {
     color:black;
     text-align: center;
-    font-family: "Courier";
+    font-family: "Arial";
+}
+#cabecera 
+{
+    background: red;
 }
